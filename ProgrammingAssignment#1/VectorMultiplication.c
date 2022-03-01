@@ -2,7 +2,6 @@
 
 /* 
    Author: Cole Stoltz
-   Section:  003
    Date: 02/03/2022
 
    Calculates the dot product of two arrays (size 5) one with
